@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sunflower_black">#290061</color>
+    <color name="sunflower_gray_50">#fafafa</color>
+    <color name="sunflower_gray_50_a600">#99fafafa</color>
+    <color name="sunflower_green_300">#00BFA5</color>
+    <color name="sunflower_green_500">#008573</color>
+    <color name="sunflower_green_700">#004A40</color>
+    <color name="sunflower_green_900">#1a231e</color>
+    <color name="sunflower_white">#deffffff</color>
+    <color name="sunflower_yellow_300">#000000</color>
+    <color name="sunflower_yellow_500">#C9FFA7</color>
+</resources>
